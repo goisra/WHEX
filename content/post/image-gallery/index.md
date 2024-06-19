@@ -1,8 +1,8 @@
 ---
-title: Image gallery
-description: Create beautiful interactive image gallery using Markdown
-date: 2023-08-26 00:00:00+0000
-image: 2.jpg
+title: Discapacidad Auditiva
+description: “La verdadera visión no está en los ojos, sino en el corazón y en la mente que perciben más allá de lo visible. La discapacidad visual no limita la capacidad de soñar, crear y vivir plenamente.”
+# date: 2023-08-26 00:00:00+0000
+image: audio.jpg
 ---
 
 ## Introducción
