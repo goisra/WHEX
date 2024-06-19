@@ -1,150 +1,96 @@
 ---
-title: Markdown Syntax Guide
-date: 2023-09-07
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+title:  Discapacidad Visual
+#date: 2023-09-07
+description: “La verdadera visión no está en los ojos, sino en el corazón y en la mente que perciben más allá de lo visible. La discapacidad visual no limita la capacidad de soñar, crear y vivir plenamente.”
 tags: 
-    - markdown
-    - css
-    - html
-    - themes
+    - 
+    - 
+    - 
+    
 categories:
-    - themes
-    - syntax
+    - alumno
+
+image: audio.jpg    
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 
-<!--more-->
+## Introducción
+- **Objetivo de la Guía**
+  - Proporcionar conocimientos y estrategias para ayudar de manera efectiva a personas con discapacidad visual.
+  - Infografía: Principios básicos de asistencia.
+- **Importancia de la Sensibilidad y el Respeto**
+  - Video explicativo: ¿Por qué es crucial ser respetuoso y sensible?
+  {{< youtube "dU_U5NwXAOY" >}}
 
-## Headings
+## Módulo 1: Comunicación y Primer Contacto
+1. **Cómo Iniciar una Conversación**
+   - Presentarse y preguntar si necesitan ayuda.
+   - Infografía: Frases útiles y actitudes adecuadas.
+   - Video tutorial: Cómo abordar a una persona con discapacidad visual.
+   {{< youtube "dD5VHtTUmds" >}}
+2. **Descripción del Entorno**
+   - Cómo describir el entorno de manera clara y detallada.
+   - Diagramas: Ejemplos de descripciones efectivas.
+   - Presentación visual: Técnicas de descripción del entorno.
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+## Módulo 2: Movilidad y Guía
+1. **Ofrecer y Proporcionar Ayuda para Caminar**
+   - Métodos para guiar a una persona con discapacidad visual.
+   - Infografía: Técnica del guía vidente.
+   - Video: Demostración de cómo guiar correctamente.
+   {{< youtube "SNYClTsoZHk" >}}
+2. **Ayuda en el Transporte Público**
+   - Protocolos para asistir en autobuses, trenes y otros medios de transporte.
+   - Diagramas: Estrategias de asistencia en diferentes situaciones.
+   - Infografía: Reglas de etiqueta en transporte público.
+   - Video: Casos prácticos de asistencia en transporte público.
+   {{< youtube "HUu3JlgalwA" >}}
 
-# H1 hi there!!
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+## Módulo 3: Asistencia en Actividades Cotidianas
+1. **Ayuda en Compras y Restaurantes**
+   - Cómo asistir en la lectura de menús y selección de productos.
+   - Infografía: Consejos prácticos para ayudar en compras.
+   - Video: Ejemplos de asistencia en tiendas y restaurantes.
+   {{< youtube "TVzXYbrLW8M" >}}
+2. **Uso de Tecnologías de Asistencia**
+   - Dispositivos y aplicaciones que pueden facilitar la vida diaria.
+   - Diagramas: Tecnologías más útiles para personas con discapacidad visual.
+   - Infografía: Guía de uso de aplicaciones móviles.
+   - Video tutorial: Cómo configurar y usar dispositivos de asistencia.
+   {{< youtube "BvXCs9PtKYU" >}}
 
-## Paragraph
+## Módulo 4: Situaciones de Emergencia
+1. **Protocolos en Caso de Emergencia**
+   - Cómo actuar y asistir durante emergencias.
+   - Gráficos: Pasos a seguir en situaciones de emergencia.
+   - Infografía: Protocolos de emergencia específicos para discapacidades visuales.
+   - Video: Simulacros de emergencia con personas con discapacidad visual.
+   {{< youtube "9uVuW_O9eD4" >}}
+2. **Primeros Auxilios y Seguridad**
+   - Conocimientos básicos de primeros auxilios.
+   - Diagramas: Primeros auxilios para personas con discapacidad visual.
+   - Infografía: Guía rápida de primeros auxilios.
+   - Video: Cursos de primeros auxilios adaptados.
+   {{< youtube "Kw3Fbt15P_8" >}}
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+## Módulo 5: Sensibilización y Educación
+1. **Fomentar la Inclusión y el Respeto**
+   - Cómo promover una cultura inclusiva y respetuosa.
+   - Infografía: Actividades y proyectos de sensibilización.
+   - Video: Testimonios y experiencias de personas con discapacidad visual.
+   {{< youtube "qWpoqh2iwqE" >}}
+2. **Capacitación Continua**
+   - Programas de formación y sensibilización para la comunidad.
+   - Diagramas: Contenidos de los programas de capacitación.
+   - Infografía: Beneficios de la capacitación continua.
+   - Video: Ejemplos de programas de sensibilización exitosos.
+   {{< youtube "ydHlzLcJrj4" >}}
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
-
-| A                                                        | B                                                                                                             | C                                                                                                                                    | D                                                 | E                                                          | F                                                                    |
-|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------|
-| Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex. | Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus | Proin sit amet velit nec enim imperdiet vehicula. | Ut bibendum vestibulum quam, eu egestas turpis gravida nec | Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien |
-
-## Code Blocks
-### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-
-### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-### Diff code block
-
-```diff
-[dependencies.bevy]
-git = "https://github.com/bevyengine/bevy"
-rev = "11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13"
-- features = ["dynamic"]
-+ features = ["jpeg", "dynamic"]
-```
-
-### One line code block
-
-```html
-<p>A paragraph</p>
-```
-
-## List Types
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-* List item
-* Another item
-* And another item
-
-### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+## Material Adicional
+- **Bibliografía y Recursos Digitales**
+  - Lista de libros, artículos y recursos online sobre asistencia a personas con discapacidad visual.
+  - Infografía: Recursos digitales útiles.
+- **Foro de Discusión y Compartición de Experiencias**
+  - Plataforma para compartir experiencias y estrategias entre ayudantes y personas con discapacidad visual.
+  - Video: Entrevistas y paneles de discusión sobre asistencia y sensibilización.
+  {{< youtube "uiWHI8kRDQ4" >}}
