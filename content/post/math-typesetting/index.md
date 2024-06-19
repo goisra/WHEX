@@ -1,40 +1,88 @@
 ---
-title: Math Typesetting
-description: Math typesetting using KaTeX
-date: 2023-08-24 00:00:00+0000
-math: true
+title: Discapasidad Auditiva
+description: “La capacidad de escuchar no reside únicamente en los oídos, sino en la voluntad de entender y conectar. La discapacidad auditiva no silencia el valor de una voz ni limita el poder de comunicar, soñar y contribuir al mundo.”
+#date: 2023-08-24 00:00:00+0000
+image: audio.jpg
 ---
 
-Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).
+## Introducción
+- **Objetivo de la Guía**
+  - Proporcionar conocimientos y estrategias para ayudar de manera efectiva a personas con discapacidad auditiva.
+  - Infografía: Principios básicos de asistencia.
+- **Importancia de la Sensibilidad y el Respeto**
+  - Video explicativo: ¿Por qué es crucial ser respetuoso y sensible?
+  {{< youtube "wjLvezWV9f4" >}}
 
-**It's not enabled by default side-wide,** but you can enable it for individual posts by adding `math: true` to the front matter. Or you can enable it side-wide by adding `math = true` to the `params.article` section in `config.toml`.
+## Módulo 1: Comunicación y Primer Contacto
+1. **Cómo Iniciar una Conversación**
+   - Presentarse y preguntar si necesitan ayuda.
+   - Infografía: Frases útiles y actitudes adecuadas.
+   - Video tutorial: Cómo abordar a una persona con discapacidad auditiva.
+   {{< youtube "NNOzcPIp3vw" >}}
+2. **Uso de Lenguaje de Señas**
+   - Fundamentos del lenguaje de señas.
+   - Diagramas: Signos básicos en lenguaje de señas.
+   - Presentación visual: Demostración de frases comunes en lenguaje de señas.
+   - Video: Curso básico de lenguaje de señas.
+   {{< youtube "cYsixd_AYGc" >}}
 
-## Inline math
+## Módulo 2: Estrategias de Comunicación
+1. **Métodos de Comunicación Alternativa**
+   - Uso de dispositivos móviles y aplicaciones para comunicarse.
+   - Infografía: Aplicaciones útiles para la comunicación.
+   - Video: Tutoriales sobre aplicaciones de comunicación.
+   {{< youtube "EAOKpzzs_OQ" >}}
+2. **Labiolectura y Expresiones Faciales**
+   - Técnicas para mejorar la comprensión a través de la labiolectura.
+   - Diagramas: Ejemplos de expresiones faciales y gestos útiles.
+   - Video: Cómo utilizar la labiolectura en la comunicación diaria.
+   {{< youtube "wKoOKAvY5Ew" >}}
 
-This is an inline mathematical expression: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
+## Módulo 3: Asistencia en Actividades Cotidianas
+1. **Ayuda en el Entorno Laboral y Educativo**
+   - Estrategias para apoyar en el trabajo y en el aula.
+   - Infografía: Ajustes razonables en el entorno laboral y educativo.
+   - Video: Casos prácticos de asistencia en entornos laborales y educativos.
+   {{< youtube "98KkLUNXx64" >}}
+2. **Participación en Eventos Sociales**
+   - Cómo facilitar la inclusión en eventos y reuniones sociales.
+   - Diagramas: Organización de eventos inclusivos.
+   - Infografía: Consejos para eventos accesibles.
+   - Video: Ejemplos de eventos sociales inclusivos.
+   {{< youtube "3xOImkpHkMU&t=4s" >}}
 
-```markdown
-$\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
-```
+## Módulo 4: Situaciones de Emergencia
+1. **Protocolos en Caso de Emergencia**
+   - Cómo actuar y asistir durante emergencias.
+   - Gráficos: Pasos a seguir en situaciones de emergencia.
+   - Infografía: Protocolos de emergencia específicos para discapacidades auditivas.
+   - Video: Simulacros de emergencia con personas con discapacidad auditiva.
+   {{< youtube "9KIDtFM0tKw" >}}
+2. **Primeros Auxilios y Seguridad**
+   - Conocimientos básicos de primeros auxilios.
+   - Diagramas: Primeros auxilios para personas con discapacidad auditiva.
+   - Infografía: Guía rápida de primeros auxilios.
+   - Video: Cursos de primeros auxilios adaptados.
+   {{< youtube "4oG53NlFbLQ" >}}
 
-## Block math
+## Módulo 5: Sensibilización y Educación
+1. **Fomentar la Inclusión y el Respeto**
+   - Cómo promover una cultura inclusiva y respetuosa.
+   - Infografía: Actividades y proyectos de sensibilización.
+   - Video: Testimonios y experiencias de personas con discapacidad auditiva.
+   {{< youtube "33OQi7-UulQ" >}}
+2. **Capacitación Continua**
+   - Programas de formación y sensibilización para la comunidad.
+   - Diagramas: Contenidos de los programas de capacitación.
+   - Infografía: Beneficios de la capacitación continua.
+   - Video: Ejemplos de programas de sensibilización exitosos.
+   {{< youtube "s58Cqj2c3k" >}}
 
-$$
-    \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
-$$
-
-```markdown
-$$
-    \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
-$$
-```
-
-$$
-    f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
-$$
-
-```markdown
-$$
-    f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
-$$
-```
+## Material Adicional
+- **Bibliografía y Recursos Digitales**
+  - Lista de libros, artículos y recursos online sobre asistencia a personas con discapacidad auditiva.
+  - Infografía: Recursos digitales útiles.
+- **Foro de Discusión y Compartición de Experiencias**
+  - Plataforma para compartir experiencias y estrategias entre ayudantes y personas con discapacidad auditiva.
+  - Video: Entrevistas y paneles de discusión sobre asistencia y sensibilización.
+  {{< youtube "Mi7I_Qz-LAI" >}}
