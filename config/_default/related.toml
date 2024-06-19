@@ -8,5 +8,5 @@ name = "tags"
 weight = 100
 
 [[indices]]
-name = "categories"
+name = "categorias"
 weight = 200

@@ -6,145 +6,91 @@ tags:
     - markdown
     - css
     - html
-    - themes
+    
 categories:
-    - themes
-    - syntax
+    - alumno
+    
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+## Introducción
+- *Objetivo de la Guía*
+  - Proporcionar conocimientos y estrategias para ayudar de manera efectiva a personas con discapacidad auditiva.
+  - Infografía: Principios básicos de asistencia.
+- *Importancia de la Sensibilidad y el Respeto*
+  - Video explicativo: ¿Por qué es crucial ser respetuoso y sensible?
+  {{< youtube "example_video_id_intro" >}}
 
-<!--more-->
+## Módulo 1: Comunicación y Primer Contacto
+1. *Cómo Iniciar una Conversación*
+   - Presentarse y preguntar si necesitan ayuda.
+   - Infografía: Frases útiles y actitudes adecuadas.
+   - Video tutorial: Cómo abordar a una persona con discapacidad auditiva.
+   {{< video "https://www.example.com/comunicacion.mp4" >}}
+2. *Uso de Lenguaje de Señas*
+   - Fundamentos del lenguaje de señas.
+   - Diagramas: Signos básicos en lenguaje de señas.
+   - Presentación visual: Demostración de frases comunes en lenguaje de señas.
+   - Video: Curso básico de lenguaje de señas.
+   {{< bilibili "example_bilibili_id_sign_language" >}}
 
-## Headings
+## Módulo 2: Estrategias de Comunicación
+1. *Métodos de Comunicación Alternativa*
+   - Uso de dispositivos móviles y aplicaciones para comunicarse.
+   - Infografía: Aplicaciones útiles para la comunicación.
+   - Video: Tutoriales sobre aplicaciones de comunicación.
+   {{< tencent "example_tencent_id_apps" >}}
+2. *Labiolectura y Expresiones Faciales*
+   - Técnicas para mejorar la comprensión a través de la labiolectura.
+   - Diagramas: Ejemplos de expresiones faciales y gestos útiles.
+   - Video: Cómo utilizar la labiolectura en la comunicación diaria.
+   {{< youtube "example_video_id_lipreading" >}}
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+## Módulo 3: Asistencia en Actividades Cotidianas
+1. *Ayuda en el Entorno Laboral y Educativo*
+   - Estrategias para apoyar en el trabajo y en el aula.
+   - Infografía: Ajustes razonables en el entorno laboral y educativo.
+   - Video: Casos prácticos de asistencia en entornos laborales y educativos.
+   {{< video "https://www.example.com/laboral_educativo.mp4" >}}
+2. *Participación en Eventos Sociales*
+   - Cómo facilitar la inclusión en eventos y reuniones sociales.
+   - Diagramas: Organización de eventos inclusivos.
+   - Infografía: Consejos para eventos accesibles.
+   - Video: Ejemplos de eventos sociales inclusivos.
+   {{< bilibili "example_bilibili_id_social" >}}
 
-# H1 hi there!!
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+## Módulo 4: Situaciones de Emergencia
+1. *Protocolos en Caso de Emergencia*
+   - Cómo actuar y asistir durante emergencias.
+   - Gráficos: Pasos a seguir en situaciones de emergencia.
+   - Infografía: Protocolos de emergencia específicos para discapacidades auditivas.
+   - Video: Simulacros de emergencia con personas con discapacidad auditiva.
+   {{< tencent "example_tencent_id_emergency" >}}
+2. *Primeros Auxilios y Seguridad*
+   - Conocimientos básicos de primeros auxilios.
+   - Diagramas: Primeros auxilios para personas con discapacidad auditiva.
+   - Infografía: Guía rápida de primeros auxilios.
+   - Video: Cursos de primeros auxilios adaptados.
+   {{< youtube "example_video_id_firstaid" >}}
 
-## Paragraph
+## Módulo 5: Sensibilización y Educación
+1. *Fomentar la Inclusión y el Respeto*
+   - Cómo promover una cultura inclusiva y respetuosa.
+   - Infografía: Actividades y proyectos de sensibilización.
+   - Video: Testimonios y experiencias de personas con discapacidad auditiva.
+   {{< video "https://www.example.com/inclusion.mp4" >}}
+2. *Capacitación Continua*
+   - Programas de formación y sensibilización para la comunidad.
+   - Diagramas: Contenidos de los programas de capacitación.
+   - Infografía: Beneficios de la capacitación continua.
+   - Video: Ejemplos de programas de sensibilización exitosos.
+   {{< bilibili "example_bilibili_id_capacitacion" >}}
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
-
-| A                                                        | B                                                                                                             | C                                                                                                                                    | D                                                 | E                                                          | F                                                                    |
-|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------|
-| jesusgarcia2102.job@gmail.com | Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex. | Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus | Proin sit amet velit nec enim imperdiet vehicula. | Ut bibendum vestibulum quam, eu egestas turpis gravida nec | Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien |
-
-## Code Blocks
-### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-
-### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-### Diff code block
-
-```diff
-[dependencies.bevy]
-git = "https://github.com/bevyengine/bevy"
-rev = "11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13"
-- features = ["dynamic"]
-+ features = ["jpeg", "dynamic"]
-```
-
-### One line code block
-
-```html
-<p>A paragraph</p>
-```
-
-## List Types
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-* List item
-* Another item
-* And another item
-
-### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+## Material Adicional
+- *Bibliografía y Recursos Digitales*
+  - Lista de libros, artículos y recursos online sobre asistencia a personas con discapacidad auditiva.
+  - Infografía: Recursos digitales útiles.
+- *Foro de Discusión y Compartición de Experiencias*
+  - Plataforma para compartir experiencias y estrategias entre ayudantes y personas con discapacidad auditiva.
+  - Video: Entrevistas y paneles de discusión sobre asistencia y sensibilización.
+  {{< youtube "example_video_id_foro" >}}
+  
