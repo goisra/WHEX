@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
+baseurl = "https://goisra.github.io/WH-EX-3/"
 languageCode = "en-us"
 paginate = 5
 title = "Hugo Theme Stack Starter"
