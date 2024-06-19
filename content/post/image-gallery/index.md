@@ -1,7 +1,6 @@
 ---
 title: Discapasidad Auditiva
 description: “La capacidad de escuchar no reside únicamente en los oídos, sino en la voluntad de entender y conectar. La discapacidad auditiva no silencia el valor de una voz ni limita el poder de comunicar, soñar y contribuir al mundo.”
-#date: 2023-08-24 00:00:00+0000
 image: audio.jpg
 ---
 
