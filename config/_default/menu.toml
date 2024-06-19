@@ -16,12 +16,6 @@ url = "https://github.com/goisra/WHEX"
 icon = "brand-github"
 
 
-[[social]]
-identifier = "gmail"
-name = "Gmail"
-url = "https://n9.cl/p40yg"
 
-[social.params]
-icon = "brand-gmail"
 
 
