@@ -1,7 +1,7 @@
 ---
-title: Math Typesetting
-description: Math typesetting using KaTeX
-date: 2023-08-24 00:00:00+0000
+title: Discapacidad Motora
+description: “La riqueza del ser humano no se mide por sus capacidades cognitivas, sino por la profundidad de su humanidad. La discapacidad mental no disminuye la dignidad ni la capacidad de vivir una vida plena de significado, amor y valor.”
+# date: 2023-08-24 00:00:00+0000
 math: true
 ---
 

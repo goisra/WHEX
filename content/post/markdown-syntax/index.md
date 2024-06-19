@@ -1,7 +1,7 @@
 ---
-title: Markdown Syntax Guide
-date: 2023-09-07
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+title: Descapacidad Auditiva 
+# date: 2023-09-07
+description: “La verdadera fuerza no está en la movilidad del cuerpo, sino en la resiliencia y la determinación del espíritu. La discapacidad motora no define el alcance de los sueños ni la capacidad de superar desafíos y dejar una huella en el mundo.”
 tags: 
     - markdown
     - css
