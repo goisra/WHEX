@@ -1,0 +1,4 @@
+baseURL = 'https://goisra.github.io/WH-EX/'
+languageCode = 'en-us'
+title = 'WHEX'
+theme = 'stack'
