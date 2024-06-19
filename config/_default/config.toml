@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://goisra.github.io/WH-EX-3/"
+baseurl = "https://goisra.github.io/WHEX"
 languageCode = "en-us"
 paginate = 5
 title = "Hugo Theme Stack Starter"
