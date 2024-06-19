@@ -1,7 +1,7 @@
 ---
 title: Discapacidad Motora
 description: “La verdadera fuerza no está en la movilidad del cuerpo, sino en la resiliencia y la determinación del espíritu. La discapacidad motora no define el alcance de los sueños ni la capacidad de superar desafíos y dejar una huella en el mundo.”
-image: motora.jpg
+image: motora.png
 ---
 
 
