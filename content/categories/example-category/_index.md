@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Profesor
+description: Promueve la inclusión
 image:
 
 # Badge style
