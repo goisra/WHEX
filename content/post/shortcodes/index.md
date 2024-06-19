@@ -1,42 +1,56 @@
 ---
-title: This is a fortino's test 
-description: Useful shortcodes that can be used in Markdown
-date: 2023-08-25 00:00:00+0000
-image: cover.jpg
+title: Discapacidad Mental
+description: “La riqueza del ser humano no se mide por sus capacidades cognitivas, sino por la profundidad de su humanidad. La discapacidad mental no disminuye la dignidad ni la capacidad de vivir una vida plena de significado, amor y valor.”
+image: mental.jpg
 ---
+## Introducción
+- **Objetivo de la Guía**
+  - Proporcionar conocimientos y estrategias para ayudar de manera efectiva a personas con discapacidad mental.
+  - Infografía: Principios básicos de asistencia.
+- **Importancia de la Sensibilidad y el Respeto**
+  - Video explicativo: ¿Por qué es crucial ser respetuoso y sensible?
+  {{< youtube "S6Tn0VRFBIo" >}}
 
-For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
+## Módulo 1: Comunicación y Empatía
+1. **Establecer una Comunicación Adecuada**
+   - Métodos para comunicarse de manera clara y comprensible.
+   - Infografía: Consejos para una comunicación efectiva.
+   - Video tutorial: Estrategias para comunicarse con personas con discapacidad mental.
+   {{< youtube "iNw3Pi4MpHA" >}}
 
-## Bilibili video
+## Módulo 2: Apoyo en Actividades de la Vida Diaria
+1. **Asistencia en Tareas Cotidianas**
+   - Estrategias para ayudar en las actividades del hogar y personales.
+   - Infografía: Adaptaciones y herramientas útiles.
+   - Video: Ejemplos prácticos de asistencia en actividades diarias.
+   {{< youtube "Eh8Bpm5-bx4" >}}
 
-{{< bilibili "BV1d4411N7zD" >}}
+## Módulo 3: Manejo de Crisis y Estrés
+1. **Cómo Manejar Situaciones de Estrés**
+   - Técnicas para calmar y gestionar situaciones de crisis.
+   - Infografía: Pasos para el manejo efectivo de crisis.
+   - Video tutorial: Demostración de técnicas de manejo de estrés.
+   {{< youtube "_GG4CG0XfZQ" >}}
 
-## Tencent video
+## Módulo 4: Promoción de la Autonomía y la Inclusión
+1. **Fomentar la Autonomía**
+   - Métodos para promover la independencia y la toma de decisiones.
+   - Diagramas: Estrategias para apoyar la autonomía.
+   - Video: Casos de éxito en la promoción de la autonomía.
+   {{< youtube "jTHTaD5QZvU" >}}
 
-{{< tencent "g0014r3khdw" >}}
+## Módulo 5: Sensibilización y Educación
+1. **Educación y Sensibilización**
+   - Promover una comprensión más amplia de las discapacidades mentales.
+   - Infografía: Actividades educativas para aumentar la conciencia.
+   - Video: Testimonios y experiencias de personas con discapacidad mental.
+   {{< youtube "cpe6A9eZlyw" >}}
 
-## YouTube video
-
-{{< youtube "0qwALOOvUik" >}}
-
-## Generic video file
-
-{{< video "https://www.w3schools.com/tags/movie.mp4" >}}
-
-## Gist
-
-{{< gist CaiJimmy e2751a943de10b2a5b3a8a6c2120cb86 >}}
-
-## GitLab
-
-{{< gitlab 2589724 >}}
-
-## Quote
-
-{{< quote author="A famous person" source="The book they wrote" url="https://en.wikipedia.org/wiki/Book">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-{{< /quote >}}
-
------
-
-> Photo by [Codioful](https://unsplash.com/@codioful) on [Unsplash](https://unsplash.com/photos/WDSN62Qdxuk)
+## Material Adicional
+- **Bibliografía y Recursos Digitales**
+  - Lista de libros, artículos y recursos online sobre asistencia a personas con discapacidad mental.
+  - Infografía: Recursos digitales útiles.
+- **Foro de Discusión y Compartición de Experiencias**
+  - Plataforma para compartir experiencias y estrategias entre cuidadores y personas con discapacidad mental.
+  - Video: Entrevistas y paneles de discusión sobre asistencia y sensibilización.
+  {{< youtube "yzN9Gzz69Yo" >}}
