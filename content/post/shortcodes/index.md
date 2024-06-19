@@ -1,7 +1,7 @@
 ---
 title: Discapacidad Mental
 description: “La riqueza del ser humano no se mide por sus capacidades cognitivas, sino por la profundidad de su humanidad. La discapacidad mental no disminuye la dignidad ni la capacidad de vivir una vida plena de significado, amor y valor.”
-image: mental.jpg
+image: mental.png
 ---
 ## Introducción
 - **Objetivo de la Guía**
