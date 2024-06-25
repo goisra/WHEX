@@ -11,7 +11,6 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-## Desglose de Información para WHEX
 
 # Apartado General (Introductorio)
 <br>
